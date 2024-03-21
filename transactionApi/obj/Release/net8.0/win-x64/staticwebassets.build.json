@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nVUkUDnTEM6+Jpwp1urZkoz42dfP7oMUsNUO2dg6CpA=",
+  "Source": "transactionApi",
+  "BasePath": "_content/transactionApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
